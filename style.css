@@ -1,0 +1,17 @@
+
+body {
+font-family: "Roboto", sans-serif;
+font-style: normal;
+}
+
+  
+.hero .row{
+    position: relative;
+    min-height: 300px;
+    height: 100vh;
+}
+
+.hero h1{
+    font-size: 70px;
+    font-weight: 800;
+}
